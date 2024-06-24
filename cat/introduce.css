@@ -1,0 +1,20 @@
+.showpage{
+    display:flex;
+    justify-content: center;
+}
+
+.images{
+    width:200px;
+    height:200px;
+}
+
+#money{
+    font-size: 100px;
+}
+
+#lose{
+    height:300px;
+}
+#win{
+    height:300px;
+}
